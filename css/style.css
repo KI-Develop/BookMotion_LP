@@ -127,6 +127,14 @@ h1, h2, h3, h4, h5, h6, figure {
     display: none;
   }
 }
+
+.gtco-nav #gtco-logo-text {
+  color: #1a1a1a;
+  font-size: large;
+  font-family: Century-Gothic;
+  margin: .4em 0 0 0;
+}
+
 .gtco-nav ul {
   padding: 0;
   margin: .4em 0 0 0;
