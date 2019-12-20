@@ -1,7 +1,7 @@
-# Book Motion Landing Page
+# BookMotion Landing Page
 
 ## TITLE: 
-Book Motion
+BookMotion
 
 ## AUTHOR:
 KI Develop
